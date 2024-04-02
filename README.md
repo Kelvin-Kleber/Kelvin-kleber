@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Kelvin kleber 😁
 
  <div>
    <a href="https://github.com/kelvin-kleber">
@@ -14,9 +14,10 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Contato
  
 <div>
   <a href = "mailto:kelvincorp159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+ 
   <a href="https://www.linkedin.com/in/kelvin-kleber-b9b28319b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
