@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Kelvin kleber 😁
 
  <div>
-   <a href="https://github.com/kelvin-kleber">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-kleber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-kleber&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Kelvin-Kleber">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvin-Kleber&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,10 +14,9 @@
  
 <br>
  
-### Contato
+### Contatos
  
 <div>
   <a href = "mailto:kelvincorp159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
- 
   <a href="https://www.linkedin.com/in/kelvin-kleber-b9b28319b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
